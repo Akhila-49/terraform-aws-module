@@ -3,11 +3,11 @@ variable "region"{
 }
 
 variable "accesskey" {
-    default="AKIAXNN3QHXZ7775PKS5"
+    default=""
 }
 
 variable "secretkey" {
-    default="iNC4CGgSFuI/fX0gup2dYokajp/pSHMGpc/x2qla"
+    default=""
   
 }
 
