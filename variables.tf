@@ -14,7 +14,6 @@ variable "secretkey" {
 variable "ami" {
     default="ami-0d03b1ad793d7ac93"
 }
-
 variable "keyname" {
     default="eks-keypair"
 }
